@@ -8,5 +8,4 @@ if __name__ == '__main__':
  			app_icon = "water.ico",
  			timeout= 12
  			)
- 		#	time.sleep(6)
  		time.sleep(60*60)
